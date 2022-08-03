@@ -26,14 +26,14 @@ section{
 .heading{
     text-align: center;
     font-size: 4rem;
-    color:#333;
+    color:green;
     padding:1rem;
     margin:2rem 0;
     background:rgba(255, 51, 153,.05);
 }
 
 .heading span{
-    color:var(--pink);
+    color:green;
 }
 
 .btn{
@@ -80,7 +80,7 @@ header .navbar a{
 }
 
 header .navbar a:hover{
-    color:var(--pink);
+    color:green;
 }
 
 header .icons a{
@@ -90,7 +90,7 @@ header .icons a{
 }
 
 header .icons a:hover{
-    color:var(--pink);
+    color:green;
 }
 
 header #toggler{
@@ -127,7 +127,7 @@ header .fa-bars{
 
 .home .content span{
     font-size: 3.5rem;
-    color:var(--pink);
+    color:var(--green);
     padding:1rem 0;
     line-height: 1.5;
 }
@@ -340,7 +340,7 @@ header .fa-bars{
 }
 
 .review .box-container .box .stars i{
-    color:var(--pink);
+    color:green;
     font-size: 2rem;
 }
 
@@ -463,7 +463,7 @@ header .fa-bars{
 }
 
 .footer .credit span{
-    color:var(--pink);
+    color:green;
 }
 
 
